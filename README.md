@@ -3,7 +3,7 @@
 
 - Estou atualmente trabalhando como **auxiliar das eleições presidenciais (temporariamente).**
 
-- No momento estou me aprimorando em **Python - HTML - CSS.**
+- No momento estou me aprimorando em **Javascript - HTML - CSS.**
 
 - Contato através do e-mail: **vilmarh.andrade@gmail.com**
 
