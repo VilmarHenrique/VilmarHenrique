@@ -9,6 +9,8 @@
 
 - Conheça meus trabalhos por meio de meu linkedin. [https://www.linkedin.com/in/vilmar-andrade-917b5b247/](https://www.linkedin.com/in/vilmar-andrade-917b5b247/)
 
+- Um pouco mais dos meus trabalhos em: https://github.com/VilmarHenrique
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vilmar-andrade-917b5b247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vilmar-andrade-917b5b247/" height="30" width="40" /></a>
