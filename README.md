@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vilmar Henrique Andrade</h1>
 <h3 align="center">Apaixonado por tecnologia e esporte.</h3>
 
-- Estou trabalhando atualmente como **na empresa Veplex sistemas de informação LTDA .**
+- Estou trabalhando atualmente **na empresa Veplex sistemas de informação LTDA .**
 
 - Estou com objetivo de aprimoração em **Javascript - HTML - CSS - PHP - Laravel.**
 
