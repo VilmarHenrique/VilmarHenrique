@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vilmar Henrique Andrade</h1>
 <h3 align="center">Apaixonado por tecnologia e esporte.</h3>
 
-- Estou trabalhando atualmente como **auxiliar das eleições presidenciais (temporariamente).**
+- Estou trabalhando atualmente como **na empresa Veplex sistemas de informação LTDA .**
 
-- Estou com objetivo de aprimoração em **Javascript - HTML - CSS.**
+- Estou com objetivo de aprimoração em **Javascript - HTML - CSS - PHP - Laravel.**
 
 - Contato através do e-mail: **vilmarh.andrade@gmail.com**
 
