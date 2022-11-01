@@ -3,7 +3,7 @@
 
 - Estou trabalhando atualmente **na empresa Veplex sistemas de informação LTDA .**
 
-- Estou com objetivo de aprimoração em **Javascript - HTML - CSS - PHP - Laravel.**
+- Estou com objetivo de aprimoração em **Javascript - HTML - CSS - PHP - PostgreeSQL.**
 
 - Contato através do e-mail: **vilmarh.andrade@gmail.com**
 
