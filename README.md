@@ -5,7 +5,7 @@
 
 - Estou com objetivo de aprimoração em **Javascript - HTML - CSS - PHP - PostgreeSQL.**
 
-- Contato através do e-mail: **vilmarh.andrade@gmail.com**
+- Contato através do e-mail: **vilmarh.andrade@gmail.com** e **(54) 99983-0923
 
 - Conheça meus trabalhos por meio de meu linkedin. [https://www.linkedin.com/in/vilmar-andrade-917b5b247/](https://www.linkedin.com/in/vilmar-andrade-917b5b247/)
 
